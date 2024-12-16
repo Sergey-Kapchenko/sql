@@ -1,0 +1,2 @@
+REPLACE INTO `creature_addon` (`guid`, `path_id`, `mount`, `MountCreatureID`, `StandState`, `AnimTier`, `VisFlags`, `SheathState`, `PvPFlags`, `emote`, `visibilityDistanceType`, `auras`) VALUES 
+(80283, 802830, 0, 0, 0, 0, 0, 0, 0, 0, 0, NULL);
